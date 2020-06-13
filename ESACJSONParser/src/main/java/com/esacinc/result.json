@@ -1,0 +1,925 @@
+{
+    "resourceType": "Bundle",
+    "id": "80c0afbd-bb70-4cdd-b271-5c5f50acdcaf",
+    "type": "transaction-response",
+    "link": [
+        {
+            "relation": "self",
+            "url": "http://localhost:8080/cqf-ruler-r4/fhir"
+        }
+    ],
+    "entry": [
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Patient/729/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Practitioner/730/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/731/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Condition/732/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Condition/733/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Device/734/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Practitioner/735/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/736/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Immunization/737/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/738/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Immunization/739/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/740/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Immunization/741/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/742/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Condition/743/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/744/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/745/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/746/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/747/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/748/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/749/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/750/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/751/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/752/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/753/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/754/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/755/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/756/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/757/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/758/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/759/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/760/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/761/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/762/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/763/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/764/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/765/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/766/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Immunization/767/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/768/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/769/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/770/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/771/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/772/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/773/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/774/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/775/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/776/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/777/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/778/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/779/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/780/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/781/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/782/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/783/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/784/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/785/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/786/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/787/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/788/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/789/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/790/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/791/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/792/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/793/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/794/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/795/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/796/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/797/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/798/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/799/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/800/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/801/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/802/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/803/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/804/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/805/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/806/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/807/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/808/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/809/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/810/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/811/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/812/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/813/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/814/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/815/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/816/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/817/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/818/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/819/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/820/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "MedicationRequest/821/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/822/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/823/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/824/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/825/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/826/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/827/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/828/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/829/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/830/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/831/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Immunization/832/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/833/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/834/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/835/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/836/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/837/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/838/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Observation/839/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/840/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Procedure/841/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        },
+        {
+            "response": {
+                "status": "201 Created",
+                "location": "Encounter/842/_history/1",
+                "etag": "1",
+                "lastModified": "2020-06-12T11:07:06.296+00:00"
+            }
+        }
+    ]
+}
